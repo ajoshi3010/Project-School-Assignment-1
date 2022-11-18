@@ -1,0 +1,21 @@
+.style{
+    display: flex;
+    justify-content: center;
+    font-family:sans-serif;
+}
+body{
+    background-color: #F8FFDB;
+
+}
+.contactfont{
+    font-family:sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: #96D4D4;
+    color: white;
+    
+  }
